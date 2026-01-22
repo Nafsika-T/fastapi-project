@@ -66,27 +66,3 @@ The API uses JWT authentication.
 
 Include the access token in the request header:
 Authorization: Bearer <token>
-
-🛠 Tech Stack
-
-Python
-
-FastAPI
-
-SQLAlchemy
-
-SQLite
-
-Pytest
-
-JWT
-
-📄 License
-
-MIT License
-
-✅ Next steps
-
-git add README.md
-git commit -m "Add README"
-git push
