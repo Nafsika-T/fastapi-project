@@ -18,7 +18,7 @@ A REST API for managing todos with authentication, built using **FastAPI**.
 ## ⚙️ Local Setup
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/USERNAME/REPO_NAME.git
 cd REPO_NAME
 2. Create a virtual environment
